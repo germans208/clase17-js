@@ -8,6 +8,8 @@
 
 // //let objeto = new Object();
 
+
+
 // let objeto2 = {
 //     nombre: "Juan", //atributo string
 //     apellido: "Perez", //atributo string
@@ -21,7 +23,7 @@
 
 // console.log(objeto2.nombre);
 
-// console.log(objeto2.saludar());
+// console.log(objeto2.saludar());gi
 
 
 // //Fecha y hora
